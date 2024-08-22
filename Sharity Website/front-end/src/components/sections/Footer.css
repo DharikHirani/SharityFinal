@@ -1,0 +1,45 @@
+App {
+    font-family: sans-serif;
+    text-align:centre;
+
+}
+
+/*SOCIAL FOLLOW STUFF*/
+.social-title{
+    font-size: 50px;
+    font-weight: 500;
+    font-style: italic;
+    color: #333;
+}
+
+.social-container{
+    background:#eee;
+    padding: 25px 50px;
+
+}
+
+a.social{
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+
+}
+a.social.hover{
+    transform:translateY(-2px) ;
+}
+
+a.youtube{
+    color: #eb3223;
+}
+
+a.Facebook{
+    color: #2e5ec5;
+}
+
+a.Twitter{
+    color:#49a1eb;
+}
+
+a.Instagram{
+    color: black;
+}

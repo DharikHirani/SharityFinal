@@ -1,0 +1,54 @@
+{
+    "eventProperties": [
+        {
+            "name": "EventName1",
+            "eventId": 1,
+            "organiserName": "oName1",
+            "discription": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        },
+        {
+            "name": "EventName2",
+            "eventId": 2,
+            "organiserName": "oName2",
+            "discription": "Guildford",
+            "coordinates": [
+                51.236221,
+                -0.570409
+            ]
+        },
+        {
+            "name": "EventName3",
+            "eventId": 3,
+            "organiserName": "oName3",
+            "discription": "Exeter",
+            "coordinates": [
+                50.725562,
+                -3.5269108
+            ]
+        },
+        {
+            "name": "EventName4",
+            "eventId": 4,
+            "organiserName": "oName4",
+            "discription": "Uxbridge",
+            "coordinates": [
+                51.5449509,
+                -0.4816672
+            ]
+        },
+        {
+            "name": "EventName5",
+            "eventId": 5,
+            "organiserName": "oName5",
+            "discription": "Liverpool",
+            "coordinates": [
+                53.407154,
+                -2.991665
+            ]
+        }
+    ]
+}
